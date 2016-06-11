@@ -1,4 +1,33 @@
+<!doctype html>
+<html>
 
+<head>
+<meta charset="utf-8">
+<title>CAR RENTAL</title>
+
+<link href="css/default.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+</head>
+
+<body>
+<h1>DENKEV CAR RENTAL<hr></h1>
+<script src="cycle.js"></script>
+
+
+<script>
+
+</script>
+<div id="header">
+    <ul>
+   
+    <li><a href="vehicles.html">Vehicles</a></li>
+    <li><a href="contact us.html">Contact Us</a></li>
+    
+  </ul>
+  </div><!--header-->
  <div class="w3-content w3-section" style="max-width:800px">
 <img class="mySlides" src="" />
 <img class="mySlides" src="" />
